@@ -22,8 +22,9 @@
 - Allemand (Elementary)
 
 ## Expérience
-![ ](/assets/img/arte_logo.jpg)
+
 ### ARTE, Strasbourg, Grand Est, France 
+![ ](/assets/img/arte_logo.jpg)
 *DATA SCIENTIST | AI & BI ENGINEER*
 septembre 2021 - Present (2 ans 1 mois)
 
@@ -37,10 +38,12 @@ septembre 2021 - Present (2 ans 1 mois)
   Technologies utilisés: Databricks, Python et Power BI.
 
 ### BIAL-X, Strasbourg, Grand Est, France
+![ ](/assets/img/bialx_logo.jpg)
 *CONSULTANT DATA SCIENTIST | AI & BI ENGINEER*
 septembre 2021 - Present (2 ans 1 mois)
 
 ### HN Services, Région de Paris, France
+![ ](assets/img/hn_logo.jpg)
 *Consultant Data Scientist AI & BI*
 janvier 2019 - août 2023 (4 ans 8 mois)
 
@@ -54,12 +57,14 @@ janvier 2019 - août 2023 (4 ans 8 mois)
 - Environnement technique : Python\ Jupyter, AWS SageMAker, AWS S3, AWS EC2, MariaDB Mysql, phpMyadmin, Techniques Machine Learning.
 
 ### Sopra HR Software, Région de Paris, France
+![](assets/img/sopra_logo.jpg)
 *Data Scientist*
 mai 2018 - décembre 2018 (8 mois)
 
 - Machine Learning : Automatisation contrôle de la paie.
 
 ### Inra - Institut national de la recherche agronomique, Région de Nancy, France
+![](assets/img/inra_logo.jpg)
 *Data Scientist*
 avril 2014 - septembre 2014 (6 mois)
 
@@ -67,6 +72,7 @@ avril 2014 - septembre 2014 (6 mois)
 - Les principales tâches : Manipuler et Vérifier les données, Choisir les méthodes statistiques les plus adaptées, rédiger ensuite un plan d’analyse statistiques, Justifier le choix des méthodes, Coder scripts d’application des méthodes en R, Tester, valider et interpréter les résultats, Participer à la valorisation scientifique et présenter les résultats, Implémentation des modèles sur CAPSIS.
 
 ### Inra - Institut national de la recherche agronomique, Région de Nancy, France
+![](assets/img/inra_logo.jpg)
 *Ingénieur Chargé d’Etudes Statistiques*
 mars 2013 - août 2013 (6 mois)
 INRA-AgroParisTech Nancy/ ONF/ FVA Freiburg
