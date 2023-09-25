@@ -21,13 +21,6 @@
 - Arabe (Native or Bilingual)
 - Allemand (Elementary)
 
-## Certifications
-- E-learning RGPD - Parcours Collaborateur
-- Agile with Atlassian Jira
-- Parcours e-learning - LES ESSENTIELS DE LA SECURITE
-- DATA LAKE IN AWS
-- TALEND ETL BI, Data Integration & Visualization
-
 ## Expérience
 
 ### ARTE, Strasbourg, Grand Est, France
@@ -54,11 +47,11 @@ janvier 2019 - août 2023 (4 ans 8 mois)
 #### Intervention chez CACEIS au sein de la Filière Compliance et RH 
 - Pour la conception des Dashboards sur la base de l’expression des besoins métier en pilotage stratégique et opérationnel des ressources humaines.
 - Les principales tâches : Proposer et développer des vues dynamiques en respectant les règles de gestion RH, Réaliser un contrôle de qualité sur la cohérence des données, en comparant les données visualisées avec celles qui sont attendues, Créer les Dashboards, Optimiser la performance des Workbooks, Publier les Dashboards sur le serveur, et les rendre accessible aux collaborateurs des différents services : membre du COMEX.
-  Environnement technique : SQL Server, Tableau Desktop, Tableau Server.
+- Environnement technique : SQL Server, Tableau Desktop, Tableau Server.
 
 #### Supervision et Maintenance Prédictive de SI
-L’équipe BPCE-IT souhaite être prévenu en temps réel (ou par anticipation) des dysfonctionnements de son Système d’Information. Alors, l’objectif de notre mission est d’obtenir un outil de Pilotage automatisé permettant d’éviter les interruptions et les pannes et de veiller au bon fonctionnement du système d'information.
-Environnement technique : Python\ Jupyter, AWS SageMAker, AWS S3, AWS EC2, MariaDB Mysql, phpMyadmin, Techniques Machine Learning.
+- L’équipe BPCE-IT souhaite être prévenu en temps réel (ou par anticipation) des dysfonctionnements de son Système d’Information. Alors, l’objectif de notre mission est d’obtenir un outil de Pilotage automatisé permettant d’éviter les interruptions et les pannes et de veiller au bon fonctionnement du système d'information.
+- Environnement technique : Python\ Jupyter, AWS SageMAker, AWS S3, AWS EC2, MariaDB Mysql, phpMyadmin, Techniques Machine Learning.
 
 ### Sopra HR Software, Région de Paris, France
 *Data Scientist*
@@ -82,3 +75,10 @@ INRA-AgroParisTech Nancy/ ONF/ FVA Freiburg
 - Les Méthodes Statistiques utilisées ont été les modèles linéaires, non-linéaires, linéaires généralisés, comportant des effets fixes et aléatoires (modèles mixtes).
   Récapitulatifs des travaux :
   - Comprendre les
+
+## Certifications
+- E-learning RGPD - Parcours Collaborateur
+- Agile with Atlassian Jira
+- Parcours e-learning - LES ESSENTIELS DE LA SECURITE
+- DATA LAKE IN AWS
+- TALEND ETL BI, Data Integration & Visualization
