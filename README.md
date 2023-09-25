@@ -22,8 +22,8 @@
 - Allemand (Elementary)
 
 ## Expérience
-
-### ARTE, Strasbourg, Grand Est, France
+(/assets/img/arte_logo.PNG)
+### ARTE, Strasbourg, Grand Est, France 
 *DATA SCIENTIST | AI & BI ENGINEER*
 septembre 2021 - Present (2 ans 1 mois)
 
