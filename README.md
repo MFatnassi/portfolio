@@ -23,8 +23,8 @@
 
 ## Expérience
 
-### ARTE, Strasbourg, Grand Est, France
-(/assets/img/arte_logo.jpg)
+![ ](/assets/img/arte_logo.jpg)
+### ARTE, Strasbourg, Grand Est, France 
 
 *DATA SCIENTIST | AI & BI ENGINEER*
 septembre 2021 - Present (2 ans 1 mois)
@@ -38,14 +38,15 @@ septembre 2021 - Present (2 ans 1 mois)
 - Tableau de Bord de Suivi détaillé : Fournir des indicateurs clés de performance (KPI) exploitables, pour assurer une surveillance constante des performances du système de recommandation.
   Technologies utilisés: Databricks, Python et Power BI.
 
+![ ](/assets/img/bialx_logo.jpg)
 ### BIAL-X, Strasbourg, Grand Est, France
-(/assets/img/bialx_logo.jpg)
 
 *CONSULTANT DATA SCIENTIST | AI & BI ENGINEER*
 septembre 2021 - Present (2 ans 1 mois)
 
-### HN Services, Région de Paris, France
 ![ ](assets/img/hn_logo.jpg)
+### HN Services, Région de Paris, France
+
 *Consultant Data Scientist AI & BI*
 janvier 2019 - août 2023 (4 ans 8 mois)
 
