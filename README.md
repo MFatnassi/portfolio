@@ -11,9 +11,9 @@
 - LinkedIn: [www.linkedin.com/in/marwen-fatnassi](www.linkedin.com/in/marwen-fatnassi)
 
 ## Principales compétences
-- AI & BI
-- Data Mining & Data Analysis
-- Big Data
+- AI & BI,
+- Data Mining & Data Analysis,
+- Big Data,
 
 ## Languages
 - Anglais (Full Professional)
@@ -61,14 +61,27 @@ septembre 2021 - Present (2 ans 1 mois)
 *Consultant Data Scientist AI & BI*
 janvier 2019 - août 2023 (4 ans 8 mois)
 
+![ ](/assets/img/caceis_logo.jpg)
+
 #### Intervention chez CACEIS au sein de la Filière Compliance et RH 
-- Pour la conception des Dashboards sur la base de l’expression des besoins métier en pilotage stratégique et opérationnel des ressources humaines.
-- Les principales tâches : Proposer et développer des vues dynamiques en respectant les règles de gestion RH, Réaliser un contrôle de qualité sur la cohérence des données, en comparant les données visualisées avec celles qui sont attendues, Créer les Dashboards, Optimiser la performance des Workbooks, Publier les Dashboards sur le serveur, et les rendre accessible aux collaborateurs des différents services : membre du COMEX.
-- Environnement technique : SQL Server, Tableau Desktop, Tableau Server.
+- **Objectif** : La conception des Dashboards sur la base de l’expression des besoins métier en pilotage stratégique et opérationnel des ressources humaines.
+
+- **Les principales tâches** :
+    - Proposer et développer des vues dynamiques en respectant les règles de gestion RH.
+    - Réaliser un contrôle de qualité sur la cohérence des données, en comparant les données visualisées avec celles qui sont attendues.
+    - Créer les Dashboards.
+    - Optimiser la performance des Workbooks.
+    - Publier les Dashboards sur le serveur et les rendre accessibles aux collaborateurs des différents services, y compris les membres du COMEX.
+
+- **Environnement technique** : SQL Server, Tableau Desktop, Tableau Server.
+
+![ ](/assets/img/bpce_logo.jpg)
 
 #### Supervision et Maintenance Prédictive de SI
-- L’équipe BPCE-IT souhaite être prévenu en temps réel (ou par anticipation) des dysfonctionnements de son Système d’Information. Alors, l’objectif de notre mission est d’obtenir un outil de Pilotage automatisé permettant d’éviter les interruptions et les pannes et de veiller au bon fonctionnement du système d'information.
-- Environnement technique : Python\ Jupyter, AWS SageMAker, AWS S3, AWS EC2, MariaDB Mysql, phpMyadmin, Techniques Machine Learning.
+- **Objectif** : L’équipe BPCE-IT (DSI) souhaite être prévenue en temps réel (ou par anticipation) des dysfonctionnements de son Système d’Information (SI). Par conséquent, l’objectif de notre mission est d'obtenir un outil de pilotage automatisé permettant de prévenir les interruptions et les pannes, ainsi que de surveiller le bon fonctionnement du système d'information.
+
+- **Environnement technique** : Python/Jupyter, AWS SageMaker, AWS S3, AWS EC2, MariaDB MySQL, phpMyAdmin, Techniques Machine Learning.
+
 
 ### Sopra HR Software, Région de Paris, France
 
@@ -86,8 +99,18 @@ mai 2018 - décembre 2018 (8 mois)
 *Data Scientist*
 avril 2014 - septembre 2014 (6 mois)
 
-- Contexte : Identification et Prédiction de la qualité du bois.
-- Les principales tâches : Manipuler et Vérifier les données, Choisir les méthodes statistiques les plus adaptées, rédiger ensuite un plan d’analyse statistiques, Justifier le choix des méthodes, Coder scripts d’application des méthodes en R, Tester, valider et interpréter les résultats, Participer à la valorisation scientifique et présenter les résultats, Implémentation des modèles sur CAPSIS.
+- **Contexte** : Identification et Prédiction de la qualité du bois.
+
+- **Les principales tâches** :
+    - Manipuler et vérifier les données.
+    - Choisir les méthodes statistiques les plus adaptées.
+    - Rédiger ensuite un plan d’analyse statistique.
+    - Justifier le choix des méthodes.
+    - Coder des scripts d’application des méthodes en R.
+    - Tester, valider et interpréter les résultats.
+    - Participer à la valorisation scientifique et présenter les résultats.
+    - Implémentation des modèles sur CAPSIS.
+
 
 ### Inra - Institut national de la recherche agronomique, Région de Nancy, France
 
@@ -97,7 +120,7 @@ avril 2014 - septembre 2014 (6 mois)
 mars 2013 - août 2013 (6 mois)
 INRA-AgroParisTech Nancy/ ONF/ FVA Freiburg
 
-- Le Stage a porté sur “la Modélisation Statistique de la Branchaison de Sapin” à partir des données allemandes recueillies par le Pr Sebastien Hein (Université de Rottenburg) et le FVA (Forstliche Versuchs-und Forschungsanstalt Baden-Wurttemberg, Freiburg) dans le cadre d’un Projet de recherche contracté entre le LERFoB et l’Office Nationale des Forêts (ONF France).
+- **Contexte** : Le Stage a porté sur “la Modélisation Statistique de la Branchaison de Sapin” à partir des données allemandes recueillies par le Pr Sebastien Hein (Université de Rottenburg) et le FVA (Forstliche Versuchs-und Forschungsanstalt Baden-Wurttemberg, Freiburg) dans le cadre d’un Projet de recherche contracté entre le LERFoB et l’Office Nationale des Forêts (ONF France).
 - Les Méthodes Statistiques utilisées ont été les modèles linéaires, non-linéaires, linéaires généralisés, comportant des effets fixes et aléatoires (modèles mixtes).
   Récapitulatifs des travaux :
   - Comprendre les
