@@ -8,7 +8,7 @@
 - Location: Saint-Dié-Des-Vosges, Grand Est, France
 - Mobile: +33(0)667116847
 - Email: fatnassi.marwen@gmail.com
-- LinkedIn: [www.linkedin.com/in/marwen-fatnassi](www.linkedin.com/in/marwen-fatnassi)
+- LinkedIn: [https://www.linkedin.com/in/marwen-fatnassi](https://www.linkedin.com/in/marwen-fatnassi)
 
 ## Principales compétences
 - AI & BI,
