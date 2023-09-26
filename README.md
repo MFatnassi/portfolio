@@ -30,16 +30,22 @@
 *DATA SCIENTIST | AI & BI ENGINEER*
 septembre 2021 - Present (2 ans 1 mois)
 
-- Conception et Développement d'Algorithmes : Développer des algorithmes de recommandation avancés en concentrant sur une approche basée sur        \
-le contenu. Écosystème : Blob Storage, Azure Service Bus, Azure Service Principal, KeyVault, Azure Storage Explorer et Databricks, etc...           \
-- Intégration des Règles Métiers : Intégration des règles métiers au développement de l'application de recommandation. Cela a permis de             \
-personnaliser davantage les recommandations et de les aligner sur les besoins spécifiques de l'entreprise.                                          \
-- Création d'une API de Feedback : Dans le but d'améliorer en continu le processus de recommandation. Cette initiative a permis de recueillir des données précieuses pour affiner nos algorithmes et améliorer la pertinence des recommandations.
-- Architecture et Déploiement Avancés : La mise en place de l'architecture globale du système, en prenant des décisions clés concernant les outils de développement appropriés. Concrétiser la conception en déployant une API dédiée à la recommandation en utilisant des technologies telles que ACI, Flask et GitHub Workflows CI/CD actions.
-- Optimisation des Performances : Des stratégies avancées pour optimiser les performances des APIs. Cela a inclus l'utilisation de serveurs WSGI, de reverse proxy et de Load balancer comme Gunicorn et Nginx.
-- Recommandations Personnalisées et Retargeting : Développer un système de recommandation personnalisée, afin d'améliorer la pertinence des recommandations et d'accroître l'engagement des utilisateurs.
-- Tableau de Bord de Suivi détaillé : Fournir des indicateurs clés de performance (KPI) exploitables, pour assurer une surveillance constante des performances du système de recommandation.
-  Technologies utilisés: Databricks, Python et Power BI.
+- **Conception et Développement d'Algorithmes** : Développer des algorithmes de recommandation avancés en se concentrant sur une approche basée sur le contenu. Écosystème : Blob Storage, Azure Service Bus, Azure Service Principal, KeyVault, Azure Storage Explorer et Databricks, etc.
+
+- **Intégration des Règles Métiers** : Intégration des règles métiers au développement de l'application de recommandation. Cela a permis de personnaliser davantage les recommandations et de les aligner sur les besoins spécifiques de l'entreprise.
+
+- **Création d'une API de Feedback** : Dans le but d'améliorer en continu le processus de recommandation. Cette initiative a permis de recueillir des données précieuses pour affiner nos algorithmes et améliorer la pertinence des recommandations.
+
+- **Architecture et Déploiement Avancés** : La mise en place de l'architecture globale du système, en prenant des décisions clés concernant les outils de développement appropriés. Concrétiser la conception en déployant une API dédiée à la recommandation en utilisant des technologies telles que ACI, Flask et GitHub Workflows CI/CD actions.
+
+- **Optimisation des Performances** : Des stratégies avancées pour optimiser les performances des APIs. Cela a inclus l'utilisation de serveurs WSGI, de reverse proxy et de Load balancer comme Gunicorn et Nginx.
+
+- **Recommandations Personnalisées et Retargeting** : Développer un système de recommandation personnalisée, afin d'améliorer la pertinence des recommandations et d'accroître l'engagement des utilisateurs.
+
+- **Tableau de Bord de Suivi détaillé** : Fournir des indicateurs clés de performance (KPI) exploitables, pour assurer une surveillance constante des performances du système de recommandation.
+
+- **Environnement technique** : Databricks, Python, PySpark, Power BI, Azure Cloud, Terraform, NewRelic,...
+
 
 ![ ](/assets/img/bialx_logo.jpg)
 
