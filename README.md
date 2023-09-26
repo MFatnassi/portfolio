@@ -23,9 +23,8 @@
 
 ## Expérience
 
-![ ](/assets/img/arte_logo.jpg)
 
-### ARTE, Strasbourg, Grand Est, France 
+<img src="/assets/img/arte_logo.jpg" alt="ARTE, Strasbourg, Grand Est, France" title="ARTE, Strasbourg, Grand Est, France">
 
 *DATA SCIENTIST | AI & BI ENGINEER*
 septembre 2021 - Present (2 ans 1 mois)
