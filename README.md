@@ -1,4 +1,4 @@
-# Marwen Fatnassi
+# Marwen FATNASSI
 *Data Scientist | AI & BI Engineer*
 
 ## Résumé
@@ -24,13 +24,16 @@
 ## Expérience
 
 ![ ](/assets/img/arte_logo.jpg)
+
 ### ARTE, Strasbourg, Grand Est, France 
 
 *DATA SCIENTIST | AI & BI ENGINEER*
 septembre 2021 - Present (2 ans 1 mois)
 
-- Conception et Développement d'Algorithmes : Développer des algorithmes de recommandation avancés en concentrant sur une approche basée sur le contenu. Écosystème : Blob Storage, Azure Service Bus, Azure Service Principal, KeyVault, Azure Storage Explorer et Databricks, etc.
-- Intégration des Règles Métiers : Intégration des règles métiers au développement de l'application de recommandation. Cela a permis de personnaliser davantage les recommandations et de les aligner sur les besoins spécifiques de l'entreprise.
+- Conception et Développement d'Algorithmes : Développer des algorithmes de recommandation avancés en concentrant sur une approche basée sur        \
+le contenu. Écosystème : Blob Storage, Azure Service Bus, Azure Service Principal, KeyVault, Azure Storage Explorer et Databricks, etc...           \
+- Intégration des Règles Métiers : Intégration des règles métiers au développement de l'application de recommandation. Cela a permis de             \
+personnaliser davantage les recommandations et de les aligner sur les besoins spécifiques de l'entreprise.                                          \
 - Création d'une API de Feedback : Dans le but d'améliorer en continu le processus de recommandation. Cette initiative a permis de recueillir des données précieuses pour affiner nos algorithmes et améliorer la pertinence des recommandations.
 - Architecture et Déploiement Avancés : La mise en place de l'architecture globale du système, en prenant des décisions clés concernant les outils de développement appropriés. Concrétiser la conception en déployant une API dédiée à la recommandation en utilisant des technologies telles que ACI, Flask et GitHub Workflows CI/CD actions.
 - Optimisation des Performances : Des stratégies avancées pour optimiser les performances des APIs. Cela a inclus l'utilisation de serveurs WSGI, de reverse proxy et de Load balancer comme Gunicorn et Nginx.
@@ -39,12 +42,14 @@ septembre 2021 - Present (2 ans 1 mois)
   Technologies utilisés: Databricks, Python et Power BI.
 
 ![ ](/assets/img/bialx_logo.jpg)
+
 ### BIAL-X, Strasbourg, Grand Est, France
 
 *CONSULTANT DATA SCIENTIST | AI & BI ENGINEER*
 septembre 2021 - Present (2 ans 1 mois)
 
 ![ ](assets/img/hn_logo.jpg)
+
 ### HN Services, Région de Paris, France
 
 *Consultant Data Scientist AI & BI*
@@ -60,14 +65,18 @@ janvier 2019 - août 2023 (4 ans 8 mois)
 - Environnement technique : Python\ Jupyter, AWS SageMAker, AWS S3, AWS EC2, MariaDB Mysql, phpMyadmin, Techniques Machine Learning.
 
 ### Sopra HR Software, Région de Paris, France
+
 ![](assets/img/sopra_logo.jpg)
+
 *Data Scientist*
 mai 2018 - décembre 2018 (8 mois)
 
 - Machine Learning : Automatisation contrôle de la paie.
 
 ### Inra - Institut national de la recherche agronomique, Région de Nancy, France
+
 ![](assets/img/inra_logo.jpg)
+
 *Data Scientist*
 avril 2014 - septembre 2014 (6 mois)
 
@@ -75,7 +84,9 @@ avril 2014 - septembre 2014 (6 mois)
 - Les principales tâches : Manipuler et Vérifier les données, Choisir les méthodes statistiques les plus adaptées, rédiger ensuite un plan d’analyse statistiques, Justifier le choix des méthodes, Coder scripts d’application des méthodes en R, Tester, valider et interpréter les résultats, Participer à la valorisation scientifique et présenter les résultats, Implémentation des modèles sur CAPSIS.
 
 ### Inra - Institut national de la recherche agronomique, Région de Nancy, France
+
 ![](assets/img/inra_logo.jpg)
+
 *Ingénieur Chargé d’Etudes Statistiques*
 mars 2013 - août 2013 (6 mois)
 INRA-AgroParisTech Nancy/ ONF/ FVA Freiburg
